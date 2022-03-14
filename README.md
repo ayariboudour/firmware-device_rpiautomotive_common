@@ -1,1 +1,0 @@
-# firmware-device_rpiautomotive_common
